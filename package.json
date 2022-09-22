@@ -1,7 +1,6 @@
 {
-    "name": "contactbock-backend",
+    "name": "contactbook-backend",
     "version": "1.0.0",
-    "description": "",
     "main": "server.js",
     "scripts": {
         "start": "nodemon server.js",
@@ -15,5 +14,14 @@
     },
     "devDependencies": {
         "nodemon": "^2.0.20"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dacdepchai/NguyenCongDatB2012076-CT449.git"
+    },
+    "bugs": {
+        "url": "https://github.com/dacdepchai/NguyenCongDatB2012076-CT449/issues"
+    },
+    "homepage": "https://github.com/dacdepchai/NguyenCongDatB2012076-CT449#readme",
+    "description": ""
 }
